@@ -3,3 +3,5 @@
 rest.http
 
 src/sandbox.ts
+.idea
+.vscode
